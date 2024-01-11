@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\bin\Debug\net6.0\VentaInformatica.exe
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\bin\Debug\net6.0\VentaInformatica.deps.json
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\bin\Debug\net6.0\VentaInformatica.runtimeconfig.json
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\bin\Debug\net6.0\VentaInformatica.dll
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\bin\Debug\net6.0\VentaInformatica.pdb
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\obj\Debug\net6.0\VentaInformatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\obj\Debug\net6.0\VentaInformatica.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\obj\Debug\net6.0\VentaInformatica.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\obj\Debug\net6.0\VentaInformatica.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\obj\Debug\net6.0\VentaInformatica.dll
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\obj\Debug\net6.0\refint\VentaInformatica.dll
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\obj\Debug\net6.0\VentaInformatica.pdb
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\obj\Debug\net6.0\VentaInformatica.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Comision50285\VentaInformatica\obj\Debug\net6.0\ref\VentaInformatica.dll
